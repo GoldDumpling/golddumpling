@@ -1,4 +1,4 @@
-## Hi there 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7D300&width=435&lines=Hello%2C+world.+I+am+GoldDumpling." alt="Typing SVG" /></a>
 
 <!--
 **GoldDumpling/golddumpling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
